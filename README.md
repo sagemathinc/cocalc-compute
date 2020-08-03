@@ -6,7 +6,9 @@
 
 **Why?** A million people have been asking me for this forever. I finally figured out how to do it!
 
-**LIMITATIONS:** CoCalc-Compute only support [cocalc-docker](https://github.com/sagemathinc/cocalc-docker) servers right now. You can't use this with https://cocalc.com. Why? Because the ssh gateway there is tricky to deal with and other issues... Nothing impossible and coming soon if there is interest.
+**LIMITATIONS:** 
+ - CoCalc-Compute only support [cocalc-docker](https://github.com/sagemathinc/cocalc-docker) servers right now. You can't use this with https://cocalc.com. Why? Because the ssh gateway there is tricky to deal with and other issues... Nothing impossible and coming soon if there is interest.
+ - This is awkward-to-use **alpha** quality software, that will likely only be made more robust and easy to use, if significantly many people express interest.
 
 ## Quickstart
 
