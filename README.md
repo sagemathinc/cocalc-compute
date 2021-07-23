@@ -1,3 +1,5 @@
+**DEPRECATED** -- this will no longer work at all.
+
 # CoCalc-BYOC -- Bring Your Own Compute to CoCalc -- use any alternative compute backend for a CoCalc project
 
 **The Problem:** You have access for a few hours to a massive server somewhere behind a firewall with a GPU and tons of RAM, and you want to use its compute resources with all the juicy collaboration, TimeTravel, and other slick features of https://CoCalc.com. You definitely don't want to run CoCalc-docker directly on that random ephemeral server, then lose your data and history when the server is gone. CoCalc-Compute solves your problem.
