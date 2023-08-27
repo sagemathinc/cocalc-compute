@@ -1,4 +1,4 @@
-**DEPRECATED** -- this will no longer work at all.
+**DEPRECATED** -- this will no longer work at all.  It is replaced by https://github.com/sagemathinc/cocalc/tree/master/src/packages/compute
 
 # CoCalc-BYOC -- Bring Your Own Compute to CoCalc -- use any alternative compute backend for a CoCalc project
 
